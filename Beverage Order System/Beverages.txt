@@ -1,0 +1,10 @@
+*******************************************
+              Hashim Beverages            
+
+
+1 Medium glass(es) of Apple juice - 70.0 Rs
+3 Medium glass(es) of Tea - 150.0 Rs
+
+Total :450
+*******************************************
+Enjoy Your Drinks!
